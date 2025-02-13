@@ -15,11 +15,14 @@ A **Flutter-based mobile application** designed to offer an excellent shopping e
 
 Include a few screenshots of your app to showcase the UI and features. Example:
 
-![Home Screen]
+## Home Screen
 (<img src="https://github.com/Sandy99098/Shoe_app/blob/main/screenshots/homeScreen.png" width="300" height="600" />)  
-![Product Page]
+
+## Product Page
+
 (<img src="https://github.com/Sandy99098/Shoe_app/blob/main/screenshots/ProductDetails.png" width="300" height="600" />)
-![Cart Screen]
+
+## Cart Screen
 (<img src="https://github.com/Sandy99098/Shoe_app/blob/main/screenshots/carts.png" width="300" height="600" />)  
 
 ---
