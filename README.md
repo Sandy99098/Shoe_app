@@ -15,7 +15,7 @@ A **Flutter-based mobile application** designed to offer an excellent shopping e
 
 Include a few screenshots of your app to showcase the UI and features. Example:
 
-![Home Screen](https://via.placeholder.com/300x600?text=Home+Screen)  
+![Home Screen](https://via.placeholder.com/300x600?text=HomeScreen)  
 ![Product Page](https://via.placeholder.com/300x600?text=Product+Page)  
 ![Cart Screen](https://via.placeholder.com/300x600?text=Cart+Screen)  
 
