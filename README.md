@@ -34,7 +34,7 @@ Make sure you have **Flutter** and **Dart** installed on your system. You can do
 
 1. First, clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/shoe_app.git
+   git clone https://github.com/Sandy99098/shoe_app.git
 
 
 A few resources to get you started if this is your first Flutter project:
